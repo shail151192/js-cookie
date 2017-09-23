@@ -1,0 +1,11 @@
+{
+  "name": "js-cookie",
+  "version": "1.0.0",
+  "description": "handling cookies in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "no command"
+  },
+  "author": "shailendra",
+  "license": "ISC"
+}
